@@ -1,7 +1,7 @@
-### Antonio Silva
+##### Antonio Silva
 _antonios6123@hstat.org_
-*HSTAT*
-*I'm born and raised in Brooklyn, NY i've been an athlete my whole life and I'm new to software engineering.*
+*High school of Telecommunications Arts and Technology*
+*I'm born and raised in Brooklyn NY, i've been an athlete my whole life (since I was a baby) and I'm new to software engineering.*
 * 1.) *Earth Science*
 * 2.) *Spanish 5*
 * 3.) *SEP* 
